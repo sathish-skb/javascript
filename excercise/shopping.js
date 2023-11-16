@@ -23,4 +23,4 @@ const shoppingBucket = {
 
 //total
 
-// 1. If cart total > 30K -> discount
+// 1. filter price greater than 50k and order price by desc
