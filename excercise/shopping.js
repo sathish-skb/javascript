@@ -17,10 +17,12 @@ const shoppingBucket = {
         productName: "Dell CPU vostro",
         productCode: 12357,
         productPrice: 85000,
-        disouctPercentage: 5
+        disouctPercentage: 20
     }]
 }
 
 //total
 
-// 1. filter price greater than 50k and order price by desc
+// 1. show Dell Monitor price
+// 2. filter by discounts - 5%
+// 2. filter price greater than 50k and order price by desc
