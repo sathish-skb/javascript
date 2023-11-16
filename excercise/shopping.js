@@ -18,6 +18,12 @@ const shoppingBucket = {
         productCode: 12357,
         productPrice: 85000,
         disouctPercentage: 20
+    },
+    {
+        productName: "iPhone 15",
+        productCode: 12350,
+        productPrice: 185000,
+        disouctPercentage: 20
     }]
 }
 
